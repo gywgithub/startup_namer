@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+## Preview
+
+![preview](assets/imgs/preview.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
